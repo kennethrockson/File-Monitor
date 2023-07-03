@@ -1,5 +1,8 @@
 # File Integrity Monitor
 
+
+![FIM Flow Chart](https://github.com/kennethrockson/File-Monitor/assets/110367362/8c7aebb8-a510-4f16-87be-7989835204ac)
+
 A simple file integrity monitor written in Powershell.
 
 ## Features
